@@ -26,7 +26,7 @@
   For general IT enquires.
   
 ## Onboarding
-For new members, here's a brief summary of how to set up.
+For new members, here's a brief summary of how to set up. If you're currently going through the onboarding process and find any of the information below out of date or incomplete, please fix it to spare the next person the trouble you're going through.
 
 ### HR processing
 Every new group member needs to go through the relevant HR process at UBC. The procedure depends on your appointment type and is usually initiated by the relevant staff. Below is a checklist of the essentials that you should obtain by the end of this process.
