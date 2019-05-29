@@ -8,8 +8,8 @@
   Kath is the first point of contact with the university administration on most matters.
   
 - Space admin - [Vivian Leung](https://www.cs.ubc.ca/people/vivian-leung)  
-  email: space-admin@cs.ubc.ca
-  phone: 604-822-3264
+  email: space-admin@cs.ubc.ca  
+  phone: 604-822-3264  
   office: ICCS 137  
   Contact Vivian with issues related to furniture and lab access.
   
