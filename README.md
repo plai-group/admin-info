@@ -49,11 +49,11 @@ The access to departmental computing facilities is granted after the relevant fo
 If you're unable to get one or more of the above, ask your fellow lab members for help.
 
 ### PLAI internet resources
-We have a bunch of internet resources that are not managed by the department. You should obtain access to the following:
-- [ ] `plai-list` mailing list (contact Rob if you're not getting these emails)
-- [ ] Google calendar for Frank's schedule (not sure whom to contact)
-- [ ] Slack workspace `plai-group` (not sure whom to contact)
-- [ ] GitHub organization `plai-group` (contact Christian if you haven't received an invitation)
+We have a bunch of internet resources that are not managed by the department. Adam will give you access to these, contact him if you're missing any of the following:
+- [ ] `plai-list` mailing list
+- [ ] Google calendar for Frank's schedule
+- [ ] Slack workspace `plai-group`
+- [ ] GitHub organization `plai-group`
 
 ### Computing resources
 Our main computing resources are the local computing cluster and Compute Canada. You should make sure you have access to and learn to run jobs on both of them. More information [here](https://github.com/michaeljteng/cluster-docs/wiki).
