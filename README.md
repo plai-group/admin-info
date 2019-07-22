@@ -56,4 +56,4 @@ We have a bunch of internet resources that are not managed by the department. Ad
 - [ ] GitHub organization `plai-group`
 
 ### Computing resources
-Our main computing resources are the local computing cluster and Compute Canada. You should make sure you have access to and learn to run jobs on both of them. More information [here](https://github.com/michaeljteng/cluster-docs/wiki).
+Our main computing resources are the local computing cluster and Compute Canada. You should make sure you have access to and learn to run jobs on both of them. More information [here](https://github.com/plai-group/cluster-docs).
