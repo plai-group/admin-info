@@ -38,7 +38,7 @@ Every new group member needs to go through the relevant HR process at UBC. The p
 Contact Kath in the first instance if you're missing any of the above.
 
 ### Department computing facilities
-The access to departmental computing facilities is granted after the relevant form is submitted to the IT helpdesk, which is usually initiated by Kath but can be done by the user if they can obtain Frank's signature. Once the form is processed, you will receive an email form IT with instructions for how to set up the account. You'll then get access to various departmental facilities described on [this website](https://my.cs.ubc.ca). You should make sure you have the following:
+The access to departmental computing facilities is granted after the relevant form is submitted to the IT helpdesk, which is usually initiated by Adam. Once the form is processed, you will receive an email form IT with instructions for how to set up the account. You'll then get access to various departmental facilities described on [this website](https://my.cs.ubc.ca). You should make sure you have the following:
 - [ ] email account in `@cs.ubc.ca` where you can send and receive email
 - [ ] `ssh` access to departmental computers through `remote.cs.ubc.ca`
 - [ ] membership in `fwood` group on departmental computers, which you can verify by running the `groups` command
@@ -51,7 +51,7 @@ If you're unable to get one or more of the above, ask your fellow lab members fo
 ### PLAI internet resources
 We have a bunch of internet resources that are not managed by the department. Adam will give you access to these, contact him if you're missing any of the following:
 - [ ] `plai-list` mailing list
-- [ ] Google calendar for Frank's schedule
+- [ ] Google calendar `PLAI group calendar` for Frank's schedule
 - [ ] Slack workspace `plai-group`
 - [ ] GitHub organization `plai-group`
 
