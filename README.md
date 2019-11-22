@@ -35,10 +35,10 @@ Every new group member needs to go through the relevant HR process at UBC. The p
 - [ ] an allocated desk in the department
 - [ ] if you are getting paid from UBC, you should submit the relevant documentation to payroll
 
-Contact Kath in the first instance if you're missing any of the above.
+Contact Barney in the first instance if you're missing any of the above.
 
 ### Department computing facilities
-The access to departmental computing facilities is granted after the relevant form is submitted to the IT helpdesk, which is usually initiated by Adam. Once the form is processed, you will receive an email form IT with instructions for how to set up the account. You'll then get access to various departmental facilities described on [this website](https://my.cs.ubc.ca). You should make sure you have the following:
+The access to departmental computing facilities is granted after the relevant form is submitted to the IT helpdesk, which is usually initiated by Barney. Once the form is processed, you will receive an email form IT with instructions for how to set up the account. You'll then get access to various departmental facilities described on [this website](https://my.cs.ubc.ca). You should make sure you have the following:
 - [ ] email account in `@cs.ubc.ca` where you can send and receive email
 - [ ] `ssh` access to departmental computers through `remote.cs.ubc.ca`
 - [ ] membership in `fwood` group on departmental computers, which you can verify by running the `groups` command
