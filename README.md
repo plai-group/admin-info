@@ -1,7 +1,7 @@
 # PLAI group admin info summary
 
 ## Useful staff contacts
-- Group assistant - [Barney Sprague]
+- Group assistant - Barney Sprague
   email: plai-admin@cs.ubc.ca  
   phone: 604-822-4983  
   office: X863  
