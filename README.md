@@ -1,11 +1,11 @@
 # PLAI group admin info summary
 
 ## Useful staff contacts
-- Group assistant - [Kath Imrihan](https://www.cs.ubc.ca/people/kletnathee-imhiran)  
-  email: lci-admin@cs.ubc.ca  
-  phone: 604-822-6281  
-  office: ICCS 111  
-  Kath is the first point of contact with the university administration on most matters.
+- Group assistant - [Barney Sprague]
+  email: plai-admin@cs.ubc.ca  
+  phone: 604-822-4983  
+  office: X863  
+  Barney is the first point of contact with the university administration on most matters.
   
 - Space admin - [Vivian Leung](https://www.cs.ubc.ca/people/vivian-leung)  
   email: space-admin@cs.ubc.ca  
@@ -49,7 +49,7 @@ The access to departmental computing facilities is granted after the relevant fo
 If you're unable to get one or more of the above, ask your fellow lab members for help.
 
 ### PLAI internet resources
-We have a bunch of internet resources that are not managed by the department. Adam will give you access to these, contact him if you're missing any of the following:
+We have a bunch of internet resources that are not managed by the department. Barney will give you access to these, contact him if you're missing any of the following:
 - [ ] `plai-list` mailing list
 - [ ] Google calendar `PLAI group calendar` for Frank's schedule
 - [ ] Slack workspace `plai-group`
