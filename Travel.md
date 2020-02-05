@@ -3,7 +3,7 @@
 The lab can currently support travel of lab members. In this document, we summarize the lab policy on Travel and procedures you need to follow if you are traveling.
 
 # PLAI Travel Policy
-Our currentpolicy is as follows:
+Our current policy is as follows:
 * The lead author of a conference presentation or poster will automatically be supported through lab funds.
 * Second authors of a conference presentation or poster can apply for the UBC Graduate Student travel Fund (https://www.grad.ubc.ca/awards/graduate-student-travel-fund). The PLAI group will match the funding received.
 * Other author of a conference presentation or poster are generally ot supported.
