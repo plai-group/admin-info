@@ -18,8 +18,9 @@ This document summarizes the general steps in the onboarding process for the gro
   * [staff only] Employee number and PIN (Early ID) received from HR
   * Add employee/student number to CWL
   * [staff only] Activate SAFmail (talk to accounts@cs.ubc.ca for user account creation)
-  * Access to internal CS email account (@cs.ubc.ca) and resources (contact accounts@cs.ubc.ca)
-    * Email account in @cs.ubc.ca where you can send and receive email
+  * Access to internal CS resources (https://my.cs.ubc.ca)
+    * Grad students automatically get access, staff need to submit a form to accounts@cs.ubc.ca
+    * Email account ending in @cs.ubc.ca where you can send and receive email
     * ssh access to departmental computers through remote.cs.ubc.ca
     * Departmental website with procedures
     * Membership in fwood group on departmental computers, which you can verify by running the groups command
