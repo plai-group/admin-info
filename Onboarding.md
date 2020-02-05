@@ -68,4 +68,4 @@ This document summarizes the general steps in the onboarding process for the gro
 * Administrative Support - GA Support and other Dept. Support: https://my.cs.ubc.ca/docs/faculty-support-gas
 * Departmental Mailing Lists: https://my.cs.ubc.ca/docs/departmental-mailing-lists
 * Department Travel/Away Schedule: https://my.cs.ubc.ca/docs/dept-travel-away-schedule
-* [Member Calendars] (https://www.cs.ubc.ca/local/phpicalendar/day.php)
+* [Member Calendars](https://www.cs.ubc.ca/local/phpicalendar/day.php)
