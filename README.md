@@ -2,6 +2,8 @@
 
 * [Onboarding Information](https://github.com/plai-group/admin-info/blob/master/Onboarding.md)
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
+* [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs)
+* [Grou publications](https://github.com/plai-group/bibliography)
 
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
