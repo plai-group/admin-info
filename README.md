@@ -1,5 +1,7 @@
 # PLAI group admin info summary
 
+* Traveling to events: https://github.com/plai-group/admin-info/blob/master/Travel.md
+
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
   email: plai-admin@cs.ubc.ca  
