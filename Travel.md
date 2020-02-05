@@ -24,7 +24,7 @@ Before your trip:
   * Total cost
   * Whether you want us to prebook thr trip for you. If you do want us to book it, you can either share your Full legal name with us, or visit us in the office so we make sure your personal details are entered correctly.
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
-* If you ask us to book the trip, you will receive confirmation in your CS email.
+* If you ask us to book the trip, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
 Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. Note thet university per diem policy here: https://finance.ubc.ca/travel/reconcile/meals-diem
 
