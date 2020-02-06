@@ -19,11 +19,11 @@ You can completely book your travel yourself, or we can book your flight and acc
 * Find your accomodation
 * Send an email/slack message to Barney and Ali with 
   * The conference name, dates, link
-  * Short description for hte reaso of your trip (usually this will be something like "I am doing a talk/poster on XYZ")
+  * Short description for the reason of your trip (usually this will be something like "I am doing a talk/poster on XYZ")
   * Your travel itinerary (could be the link from google flight)
   * Your accomodation info (could be a link)
   * Total cost
-  * If you want us to book the itinerary for you, please mention that in your message. We will need your Full legal and date of birth.
+  * If you want us to book the itinerary for you, please mention that in your message. We will need your full legal name and date of birth.
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
 * If you ask us to book the trip, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
