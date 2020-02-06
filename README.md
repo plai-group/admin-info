@@ -4,6 +4,7 @@
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
 * [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs)
 * [Grou publications](https://github.com/plai-group/bibliography)
+* [Purchase requests](https://docs.google.com/spreadsheets/d/18SsBvTsR00Fjc93xLpptiK-W-6eZW447X62Voe_NPbM/edit#gid=0)
 
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
