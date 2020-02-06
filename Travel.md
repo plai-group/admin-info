@@ -10,26 +10,27 @@ Our current policy is as follows:
 * Each student is entitled to a single funded summer school
 * If you do receive partial funding from other sources for your conference (such as programs the conference run), we can discuss a contribution from the lab on top of that as well.
 
-# Procdures for Travel Booking and Reimbursement
+# Procedures for Travel Booking and Reimbursement
 You can completely book your travel yourself, or we can book your flight and accomodation for you using the PLAI Group credit card (to reduce the financial strain on you prior to the trip).
 
-Before your trip:
+## Before your trip:
 * Make sure to familarize yourself with UBC Finance travel policy: https://finance.ubc.ca/procure-pay/expenditure-guidelines/travel-expenditures
 * Find the right flight (preferably on google flights).
 * Find your accomodation
 * Send an email/slack message to Barney and Ali with 
   * The conference name, dates, link
+  * Short description for hte reaso of your trip (usually this will be something like "I am doing a talk/poster on XYZ")
   * Your travel itinerary (could be the link from google flight)
   * Your accomodation info (could be a link)
   * Total cost
-  * Whether you want us to prebook thr trip for you. If you do want us to book it, you can either share your Full legal name with us, or visit us in the office so we make sure your personal details are entered correctly.
+  * If you want us to book the itinerary for you, please mention that in your message. We will need your Full legal and date of birth.
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
 * If you ask us to book the trip, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
 Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. Note thet university per diem policy here: https://finance.ubc.ca/travel/reconcile/meals-diem
 
-After your trip:
-* Fill the travel UBC CS reimbursement form: https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf
+## After your trip:
+* Fill the UBC CS travel reimbursement form: https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf
 * If you do not have your original itemized receipt, a missing receipt form should be used: https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx
 However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
-* Submit the form to finance@cs.ubc.ca along with a copy of your rceipts, or drop it off at Branda's desk in the finance department. 
+* Submit the form to finance@cs.ubc.ca along with a copy of your receipts, or drop it off at Branda's desk in the finance department. 
