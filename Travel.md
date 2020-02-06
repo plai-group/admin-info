@@ -30,6 +30,6 @@ You can completely book your travel yourself, or we can book your flight and acc
 Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem).
 
 ## After your trip:
-* Fill the (UBC CS travel reimbursement form)[https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf]
+* Fill the [UBC CS travel reimbursement form](https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf)
 * If you do not have your original itemized receipt, a [missing receipt form](https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx) should be used. However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
 * Submit the form to finance@cs.ubc.ca along with a copy of your receipts, or drop it off at Branda's desk in the finance department. 
