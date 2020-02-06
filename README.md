@@ -6,6 +6,7 @@
 * [Group publications](https://github.com/plai-group/bibliography)
 * [Purchase requests](https://docs.google.com/spreadsheets/d/18SsBvTsR00Fjc93xLpptiK-W-6eZW447X62Voe_NPbM/edit#gid=0)
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
+* [Minfesto and FAQ](https://github.com/plai-group/manifesto)
 
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
