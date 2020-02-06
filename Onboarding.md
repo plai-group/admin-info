@@ -61,7 +61,7 @@ This document summarizes the general steps in the onboarding process for the gro
     * [Policy SC14 – Information Systems (formerly Policy #104)](https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/Information-Systems-Policy_SC14.pdf)
     * [Security Standards](http://cio.ubc.ca/securitystandards)
 10. Confirmation that offer letter was received (signed and returned to Financial Services if M&P)
-11. [Enrolling for payroll, benefits and pension through the Human Resources Online Benefits Enrollment System using the enrollment code indicated in the letter of offer](http:\www.hr.ubc.ca\wellbeing-benefits\benefits\getting-started\enrolling-in-benefits\)
+11. [Enrolling for payroll, benefits and pension through the Human Resources Online Benefits Enrollment System using the enrollment code indicated in the letter of offer](http:\\www.hr.ubc.ca\wellbeing-benefits\benefits\getting-started\enrolling-in-benefits\)
 12. Job description reviewed (with HR)
 13. Signing authority and company credit cards arranged for inf applicable (e.g. financial accounts, store accounts and purchasing).
 14. [Complete online orientation and training](https://www.hr.ubc.ca/orientation/)
