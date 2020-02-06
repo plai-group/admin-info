@@ -31,6 +31,6 @@ Make sure to keep all the receipts your want to be reimbursed for during the tri
 
 ## After your trip:
 * Fill the [UBC CS travel reimbursement form](https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf)
-  * The speedchart number determines which account your costs are charged to. Check with the lab manager before filling the form.
+  * The speedchart number determines which account your costs are charged to. Check with the lab manager before filling the form to determing which speedchart to use.
 * If you do not have your original itemized receipt, a [missing receipt form](https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx) should be used. However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
 * Submit the form to finance@cs.ubc.ca along with a copy of your receipts, or drop it off with Annie or Brenda in the finance department. 
