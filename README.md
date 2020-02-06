@@ -25,7 +25,7 @@
   office: ICICS/CS 103  
   For general IT enquires.
   
-  - Space admin - [Vivian Leung](https://www.cs.ubc.ca/people/vivian-leung)  
+- Space admin - [Vivian Leung](https://www.cs.ubc.ca/people/vivian-leung)  
   email: space-admin@cs.ubc.ca  
   phone: 604-822-3264  
   office: ICCS 137  
