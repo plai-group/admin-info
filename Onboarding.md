@@ -1,6 +1,8 @@
 # Welcome to the PLAI Group
 
-This document summarizes the general steps in the onboarding process for the group. Not all sections are applicable to all team members. If you're currently going through the onboarding process and find any of the information below out of date or incomplete, please fix it to spare the next person the trouble you're going through.
+This document summarizes the general steps in the onboarding process for the group. Not all sections are applicable to all team members. We will use this document as a checklist during the onboarding process to make sure all relevant information is tansfered to you. 
+
+If you're currently going through the onboarding process and find any of the information below out of date or incomplete, please fix it to spare the next person the trouble you're going through.
 
 1. Introduction to other staff members and Tour of the building
     X-725: PLAI Lab
@@ -30,6 +32,7 @@ This document summarizes the general steps in the onboarding process for the gro
   * Key pick up from Access Desk in bookstore (only if office needs a key)
   * Apply for UBC Card at Access Desk at Bookstore
   * Request access to facilities at the department (lab at X725, lounge, etc) by sending photo of the front and back of your UBC card to space-admin@cs.ubc.ca, confirming you are a member of hte PLAI Group and including plai-manager@cs.ubc.ca in cc
+  * UBC E-mail signatures: https://brand.ubc.ca/e-mail-signature-generator/?login
 
 3. University property issued
   * University equipment for home use (e.g. computer, cell phone, etc.)
@@ -39,7 +42,7 @@ This document summarizes the general steps in the onboarding process for the gro
   * Desk and cabinets
   * [staff only] Voicemail and phone
 
-7. Group internal tools 
+4. Group internal tools 
   * Access to the group Slack Workspace (plai-group)
   * [Frank's Google Calendar](https://calendar.google.com/calendar?cid=azRqZ2R1M2VlNG83bWk5ZWY4ZGJrcmRuajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [Plai-group Github](https://github.com/plai-group)
@@ -47,11 +50,13 @@ This document summarizes the general steps in the onboarding process for the gro
   * [Repository of admnistrative procedures](https://github.com/plai-group/admin-info)
   * [Use of computational resources](https://github.com/plai-group/cluster-docs)
 
-8. Review [mandatory training for all workers](https://srs.ubc.ca/training-and-general-education-courses/mandatory-training-for-all-ubc-workers/?login)
+5. Review [mandatory training for all workers](https://srs.ubc.ca/training-and-general-education-courses/mandatory-training-for-all-ubc-workers/?login)
+
+6. Review [UBC brand](https://brand.ubc.ca/) site which incldes relevant templates for presentation and posters
 
 # For Staff Only
 
-9. Review university policies and procedures
+7. Review university policies and procedures
     * [Summary of UBC Policies and Expectations for Faculty & Staff](http://bog.ubc.ca/?page_id=8706)
     * [Policy GA4 – Records Management (formerly Policy #117)](https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/Records-Management-Policy_GA4.pdf)
     * [Policy SC1 – Health and Safety (formerly Policy #7)](https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/Health-and-Safety-Policy_SC1.pdf)
@@ -60,11 +65,12 @@ This document summarizes the general steps in the onboarding process for the gro
     * [Policy SC13 – At-Risk Behaviour (formerly Policy #14)](https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/At-Risk-Behaviour-Policy_SC13.pdf)
     * [Policy SC14 – Information Systems (formerly Policy #104)](https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/Information-Systems-Policy_SC14.pdf)
     * [Security Standards](http://cio.ubc.ca/securitystandards)
-10. Confirmation that offer letter was received (signed and returned to Financial Services if M&P)
-11. [Enrolling for payroll, benefits and pension through the Human Resources Online Benefits Enrollment System using the enrollment code indicated in the letter of offer](http://www.hr.ubc.ca/wellbeing-benefits/benefits/getting-started/enrolling-in-benefits)
-12. Job description reviewed (with HR)
-13. Signing authority and company credit cards arranged for inf applicable (e.g. financial accounts, store accounts and purchasing).
-14. [Complete online orientation and training](https://www.hr.ubc.ca/orientation/)
+8. Confirmation that offer letter was received (signed and returned to Financial Services if M&P)
+9. [Enrolling for payroll, benefits and pension through the Human Resources Online Benefits Enrollment System using the enrollment code indicated in the letter of offer](http://www.hr.ubc.ca/wellbeing-benefits/benefits/getting-started/enrolling-in-benefits)
+10. Job description reviewed (with HR)
+11. Signing authority and company credit cards arranged for inf applicable (e.g. financial accounts, store accounts and purchasing).
+12. [Complete online orientation and training](https://www.hr.ubc.ca/orientation/)
+13. [General resources for staff](https://faculty-staff.ubc.ca/faculty-staff/helpful-resources-and-contacts/)
 
 # Other Resources for Staff
 * [Room Booking](https://my.cs.ubc.ca/facilities/room-list)
