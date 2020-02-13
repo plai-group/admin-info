@@ -2,6 +2,6 @@
 
 1. Access to facilities
 2. Hardware return
-2. CWL deactivation
-3. Removal from computational resources (CS)
-4. Removal from github
+3. CWL deactivation
+4. Removal from computational resources (CS)
+5. Removal from github and slack
