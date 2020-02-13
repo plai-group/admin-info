@@ -32,7 +32,7 @@ If you're currently going through the onboarding process and find any of the inf
   * Key pick up from Access Desk in bookstore (only if office needs a key)
   * Apply for UBC Card at Access Desk at Bookstore
   * Request access to facilities at the department (lab at X725, lounge, etc) by sending photo of the front and back of your UBC card to space-admin@cs.ubc.ca, confirming you are a member of hte PLAI Group and including plai-manager@cs.ubc.ca in cc
-  * UBC E-mail signatures: https://brand.ubc.ca/e-mail-signature-generator/?login
+  * [UBC E-mail signatures](https://brand.ubc.ca/e-mail-signature-generator/?login)
 
 3. University property issued
   * University equipment for home use (e.g. computer, cell phone, etc.)
@@ -68,9 +68,10 @@ If you're currently going through the onboarding process and find any of the inf
 8. Confirmation that offer letter was received (signed and returned to Financial Services if M&P)
 9. [Enrolling for payroll, benefits and pension through the Human Resources Online Benefits Enrollment System using the enrollment code indicated in the letter of offer](http://www.hr.ubc.ca/wellbeing-benefits/benefits/getting-started/enrolling-in-benefits)
 10. Job description reviewed (with HR)
-11. Signing authority and company credit cards arranged for inf applicable (e.g. financial accounts, store accounts and purchasing).
-12. [Complete online orientation and training](https://www.hr.ubc.ca/orientation/)
-13. [General resources for staff](https://faculty-staff.ubc.ca/faculty-staff/helpful-resources-and-contacts/)
+11. Signing authority and company credit cards arranged if applicable (e.g. financial accounts, store accounts and purchasing).
+12. Business cards ordered if requested
+13. [Complete online orientation and training](https://www.hr.ubc.ca/orientation/)
+14. [General resources for staff](https://faculty-staff.ubc.ca/faculty-staff/helpful-resources-and-contacts/)
 
 # Other Resources for Staff
 * [Room Booking](https://my.cs.ubc.ca/facilities/room-list)
