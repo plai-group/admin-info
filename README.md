@@ -8,6 +8,7 @@
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
 * [Minfesto and FAQ](https://github.com/plai-group/manifesto)
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
+* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
