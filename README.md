@@ -15,22 +15,41 @@
   email: plai-admin@cs.ubc.ca  
   phone: 604-822-4983  
   office: X863
-  Barney is the first point of contact with the university administration on most matters. 
+  Topics: 
+  * First point of contact for administrative issues 
+  * Reimbursements
+  * Travel arrangements
+  * Purchasing
+  
+- Group Manager - Ali Nasseri  
+  email: ali.nasseri@ubc.ca  
+  office: X863
+  Topics:
+  * Grants and funding
+  * Opportunities
+  * Facilities and work space
   
 - Computing facilities manager - [Michael Sanderson](https://www.cs.ubc.ca/people/michael-sanderson)  
   email: sanders@cs.ubc.ca  
   phone: 604-822-6194  
   office: ICCS 129  
-  Michael is our PoC for all issues relating to our computing infrastructure (cluster machines). He is in the PLAI Slack workspace and is generally very responsive. Contact him regarding problems with local machines and for software installations requiring sudo privilages.
+  Topics:
+  * Computational infrastructure (cluster)
+  * Local machines
+  * Installations requiring sudo privillages
   
-- [IT help desk](https://www.cs.ubc.ca/content/helpdesk-location-and-hours)  
+- Help desk  
   email: help@cs.ubc.ca  
   phone: 604-822-1423  
   office: ICICS/CS 103  
-  For general IT enquires.
+  Topics:
+  * General IT issues
+  * When not sure about the issue, send it to help desk.
   
 - Space admin - [Vivian Leung](https://www.cs.ubc.ca/people/vivian-leung)  
   email: space-admin@cs.ubc.ca  
   phone: 604-822-3264  
   office: ICCS 137  
-  Contact Vivian with issues related to furniture and lab access.
+  Topics:
+  * Lab access
+  * Furniture
