@@ -33,6 +33,7 @@ If you're currently going through the onboarding process and find any of the inf
   * Apply for UBC Card at Access Desk at Bookstore
   * Request access to facilities at the department (lab at X725, lounge, etc) by sending photo of the front and back of your UBC card to space-admin@cs.ubc.ca, confirming you are a member of hte PLAI Group and including plai-manager@cs.ubc.ca in cc
   * [UBC E-mail signatures](https://brand.ubc.ca/e-mail-signature-generator/?login)
+  * [Request add to the PLAI website team page](http://cs-plai-2019.sites.olt.ubc.ca/group-member-information/)
 
 3. University property issued
   * University equipment for home use (e.g. computer, cell phone, etc.)
