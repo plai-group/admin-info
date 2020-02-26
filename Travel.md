@@ -15,17 +15,15 @@ You can completely book your travel yourself, or we can book your flight and acc
 
 ## Before your trip:
 * Make sure to familarize yourself with [UBC Finance travel policy](https://finance.ubc.ca/procure-pay/expenditure-guidelines/travel-expenditures)
-* Find the right flight (preferably on google flights).
-* Find your accomodation
-* Send an email/slack message to Barney and Ali with 
+* Fill the [Travel Request Form](https://cs-plai-2019.sites.olt.ubc.ca/internal/travel-request/). You will need the following information:
   * The conference name, dates, link
   * Short description for the reason of your trip (usually this will be something like "I am doing a talk/poster on XYZ")
-  * Your travel itinerary (could be the link from google flight)
+  * Your travel itinerary/flight information (could be the link from google flight)
   * Your accomodation info (could be a link)
   * Total cost
   * If you want us to book the itinerary for you, please mention that in your message. We will need your full legal name and date of birth.
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
-* If you ask us to book the trip, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
+* If you ask us to book the trip for you, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
 Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem).
 
