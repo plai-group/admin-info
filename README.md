@@ -2,7 +2,7 @@
 
 * [Onboarding Information](https://github.com/plai-group/admin-info/blob/master/Onboarding.md)
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
-* [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs)
+* [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs/wiki)
 * [Group publications](https://github.com/plai-group/bibliography)
 * [Purchase requests](https://docs.google.com/spreadsheets/d/18SsBvTsR00Fjc93xLpptiK-W-6eZW447X62Voe_NPbM/edit#gid=0): You can directly add your non-urgent requests and we will process them weekley.
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
