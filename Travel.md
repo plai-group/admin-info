@@ -31,6 +31,7 @@ Make sure to keep all the receipts your want to be reimbursed for during the tri
 * Invoice from hotel/accomodation provider
 * Boarding passes and other tickets
 * Certificate of attendance to the conference
+
 Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem) which might affect reimbursement of food and other items.
 
 ## After your trip:
