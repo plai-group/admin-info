@@ -25,7 +25,13 @@ You can completely book your travel yourself, or we can book your flight and acc
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
 * If you ask us to book the trip for you, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
-Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem).
+## During your trip:
+
+Make sure to keep all the receipts your want to be reimbursed for during the trip, and get invoices when possible. This specially includes:
+* Invoice from hotel/accomodation provider
+* Boarding passes and other tickets
+* Certificate of attendance to the conference
+Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem) which might affect reimbursement of food and other items.
 
 ## After your trip:
 * Fill the [UBC CS travel reimbursement form](https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf)
