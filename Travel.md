@@ -38,5 +38,5 @@ Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/me
 * Fill the [UBC CS travel reimbursement form](https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf)
   * The speedchart number determines which account your costs are charged to. Check with the lab manager before filling the form to determing which speedchart to use.
 * If you do not have your original itemized receipt, a [missing receipt form](https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx) should be used. However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
-* You do not need to include any items that was pre-booked by PLAI lab using the credit card. Do keep the relevant documents though for 3 months in case we need them.
+* You do not need to include any items that was pre-booked by PLAI lab using the credit card in your reimbursement request. Do keep the relevant documents though for 3 months in case we need them later on.
 * Submit the form to finance@cs.ubc.ca along with a copy of your receipts, or drop it off with Annie or Brenda in the finance department. 
