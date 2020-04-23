@@ -9,6 +9,7 @@
 * [Minfesto and FAQ](https://github.com/plai-group/manifesto)
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
 * [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
+* [Licenses on software released publicly by the group](https://github.com/plai-group/admin-info/blob/master/Licensing.md)
 
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
