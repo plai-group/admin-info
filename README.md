@@ -10,6 +10,7 @@
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
 * [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 * [Licenses on software released publicly by the group](https://github.com/plai-group/admin-info/blob/master/Licensing.md)
+* [PLAI Slack, Github and other Services](https://github.com/plai-group/admin-info/blob/master/software_services.md)
 
 
 ## Useful staff contacts
