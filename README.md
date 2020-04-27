@@ -11,6 +11,7 @@
 * [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 * [Licenses on software released publicly by the group](https://github.com/plai-group/admin-info/blob/master/Licensing.md)
 
+
 ## Useful staff contacts
 - Group assistant - Barney Sprague  
   email: plai-admin@cs.ubc.ca  
