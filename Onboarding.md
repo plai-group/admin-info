@@ -5,14 +5,14 @@ This document summarizes the general steps in the onboarding process for the gro
 If you're currently going through the onboarding process and find any of the information below out of date or incomplete, please fix it to spare the next person the trouble you're going through.
 
 1. Introduction to other staff members and Tour of the building
-   * X-725: PLAI Lab
-   * X861: Frank Wood
-   * X863: PLAI Admin
-   * X869: Postdocs 
-   * Staff lounge
-   * Bathrooms
-   * CS Admin (second floor)
-   * Supplies room
+  * X-725: PLAI Lab
+  * X861: Frank Wood
+  * X863: PLAI Admin
+  * X869: Postdocs 
+  * Staff lounge
+  * Bathrooms
+  * CS Admin (second floor)
+  * Supplies room
 
 2. Building access cards, keys and codes issued
   * CWL set-up (Basic Account)
