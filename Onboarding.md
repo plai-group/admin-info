@@ -55,6 +55,9 @@ If you're currently going through the onboarding process and find any of the inf
 
 6. Review [UBC brand](https://brand.ubc.ca/) site which incldes relevant templates for presentation and posters
 
+# For Students Only
+7. Please check the [school of graduate studies orientation guide](https://orientation.grad.ubc.ca/newly-admitted-checklist/)
+
 # For Staff Only
 
 7. Review university policies and procedures
