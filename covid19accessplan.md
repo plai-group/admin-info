@@ -2,7 +2,7 @@
 
 Note: The information listed here is the plan for accessing the workspace as per UBC Return to Research Phase 1. The plan has not yet been approved (on 31 July 2020).
 
-Owing to the COVID-19 pandemic, access to the UBC Campus facilities including UBC CS was restricted. UBC is easing access now, and allowing the facilities to be used at 1/3 capacity.
+Owing to the COVID-19 pandemic, access to the UBC Campus facilities including UBC CS was restricted. UBC is easing access now, and allowing the facilities to be used at 1/3 capacity. Workspaces that are office-like are restricted to one individual per room.
 
 ## Pre-requisits and Access Approval
 Any lab member wishing to access the lab needs to:
