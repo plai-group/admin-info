@@ -6,11 +6,12 @@
 * [Group publications](https://github.com/plai-group/bibliography)
 * [Purchase requests](https://docs.google.com/spreadsheets/d/18SsBvTsR00Fjc93xLpptiK-W-6eZW447X62Voe_NPbM/edit#gid=0): You can directly add your non-urgent requests and we will process them weekley.
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
-* [Minfesto and FAQ](https://github.com/plai-group/manifesto)
+* [Frank's Minfesto and FAQ](https://github.com/plai-group/manifesto)
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
 * [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 * [Licenses on software released publicly by the group](https://github.com/plai-group/admin-info/blob/master/Licensing.md)
 * [PLAI Slack, Github and other Services](https://github.com/plai-group/admin-info/blob/master/software_services.md)
+* [Accessing the PLAI Workspace during COVID-19](https://github.com/plai-group/admin-info/blob/master/covid19accessplan.md)
 
 
 ## Useful staff contacts
