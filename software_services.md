@@ -1,4 +1,4 @@
-# Slack Workspace: (plai-group.slack.com)
+# Slack Workspace: (https://plai-group.slack.com)
 Slack is the main means of communication for lab members.
 
 While in most cases you can create your own channels, we recommend only doing so if a channel is actually going to be used long term.
