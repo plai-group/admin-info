@@ -6,7 +6,8 @@ Owing to the COVID-19 pandemic, access to the UBC Campus facilities including UB
 
 ## Pre-requisits and Access Approval
 Any lab member wishing to access the lab needs to:
-* Review the [UBC Health and Safety COVID-19 page](https://srs.ubc.ca/covid-19/health-safety-covid-19/?login)
+* Review the [UBC Health and Safety COVID-19 page](https://srs.ubc.ca/covid-19/health-safety-covid-19)
+* Review the safety protocols (page 20 of [this document](https://my.cs.ubc.ca/system/files/docs/science_return_to_on-campus_research_documentation_approved_june_2.pdf))
 * Complete the [UBC COVID-19 Training](https://srs.ubc.ca/covid-19/safety-planning/covid-19-safety-training-rules/)
 * Submit an access request to plai-manager@cs.ubc.ca including:
   * Proof of completion of COVID-19 training (this can be a screenshot showing you have passed the quiz)
