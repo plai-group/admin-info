@@ -21,7 +21,13 @@ Each room within the lab (X-725, X-725A, and X-725B) is assigned a capacity of o
 * Group members need to complete the [schedule](https://drive.google.com/open?id=1SL8aUzEALNrlZeRALzvchq2PJNKxyE47&authuser=ali.nasseri%40alumni.utoronto.ca&usp=drive_fs) by adding you initials on the day and time you wish to access the lab by Friday the week before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk.
 * You should enter the building while wearing a mask/face covering. Masks can be removed when you reach the relevant room assigned to you.
 * When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri.
-* Clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes the surface of the table, seat handles, any cables you used, etc. 
+* Clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes:
+  * The surface of the table
+  * Seat handles
+  * Any cables you used
+  * Door knobs
+  * Lights switched
+  * Any other surface you touched 
 * Make sure to leave before the end of the assigned time slot.
 * When ending your shift in the lab, send a check-out message on slack to Ali Nasseri.
 * While in the lab, maintain social distancing and avoid touching surfaces other than the assigned workspace.
