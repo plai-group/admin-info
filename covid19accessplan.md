@@ -11,6 +11,7 @@ Any lab member wishing to access the lab needs to:
 * Complete the [UBC COVID-19 Training](https://srs.ubc.ca/covid-19/safety-planning/covid-19-safety-training-rules/)
 * Submit an access request to plai-manager@cs.ubc.ca including:
   * Proof of completion of COVID-19 training (this can be a screenshot showing you have passed the quiz)
+  * Signed CS Safety Plan (acknowledging your have reviewed the relevant guidelines)
   * Reason for access to the lab (this can be as simple as being able to focus on work, etc)
 
 We will get back to you on whether your access is approved or not.
