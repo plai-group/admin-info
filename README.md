@@ -4,7 +4,7 @@
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
 * [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs/wiki)
 * [Group publications](https://github.com/plai-group/bibliography)
-* [Purchase requests](https://docs.google.com/spreadsheets/d/18SsBvTsR00Fjc93xLpptiK-W-6eZW447X62Voe_NPbM/edit#gid=0): You can directly add your non-urgent requests and we will process them weekley.
+* [Purchase requests](https://docs.google.com/spreadsheets/d/1E5Y_7ldkRZ8gYVDLx_z9_SZC-cNY4-kgskT_xv9v0j0): You can directly add your non-urgent requests and we will process them weekley.
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
 * [Frank's Minfesto and FAQ](https://github.com/plai-group/manifesto)
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
