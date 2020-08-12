@@ -19,7 +19,7 @@ We will get back to you on whether your access is approved or not. Access will o
 ## Accessing the Lab During the Pandemic
 Rooms X-725A, and X-725B have been assigned a capacity of one person per room. No person should remain in X-725. We have created a rotating schedule, and access is restricted to 2 blocks of 4 hours per day, with a one hour buffer in between.
 
-* Group members need to complete the [schedule](https://drive.google.com/open?id=1SL8aUzEALNrlZeRALzvchq2PJNKxyE47&authuser=ali.nasseri%40alumni.utoronto.ca&usp=drive_fs) by adding you initials on the day and time you wish to access the lab by Friday the week before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk.
+* Group members need to complete the [schedule](https://docs.google.com/spreadsheets/d/1N0kpstnK52oMIF9_FhbI67amwSNii9lzntlzAoewNKY/edit#gid=1626355162) by adding you initials on the day and time you wish to access the lab by Friday the week before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk.
 * The lab manager will be communicating the requested days to the department every Friday.
 * You should enter the building while wearing a mask/face covering. Masks can be removed when you reach the relevant room assigned to you.
 * Follow the posted signage provided by the department, and remember to sanitize your hands upon entry to the building.
