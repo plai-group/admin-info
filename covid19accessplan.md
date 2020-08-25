@@ -29,7 +29,7 @@ Rooms X-725A, and X-725B have been assigned a capacity of one person per room. N
   * Seat handles
   * Any cables you used
   * Door knobs
-  * Lights switched
+  * Lights switches
   * Any other surface you touched 
 * Make sure to leave before the end of the assigned time slot.
 * When ending your shift in the lab, send a check-out message on slack to Ali Nasseri.
