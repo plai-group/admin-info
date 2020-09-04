@@ -42,6 +42,7 @@ If you're currently going through the onboarding process and find any of the inf
   * Uniforms, security identification, name tags, etc.
   * Desk and cabinets
   * [staff only] Voicemail and phone
+  * Office365
 
 4. Group internal tools 
   * Access to the group Slack Workspace (plai-group)
