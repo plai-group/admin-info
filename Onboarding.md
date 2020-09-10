@@ -52,6 +52,7 @@ If you're currently going through the onboarding process and find any of the inf
   * Booking meetings with Frank and vacation request procedures
   * [Repository of admnistrative procedures](https://github.com/plai-group/admin-info)
   * [Use of computational resources](https://github.com/plai-group/cluster-docs)
+  * Add to fwood group on the CS internal system (names need to be sent to help@cs.ubc.ca by us)
 
 5. Review [mandatory training for all workers](https://srs.ubc.ca/training-and-general-education-courses/mandatory-training-for-all-ubc-workers/?login)
 
