@@ -8,11 +8,10 @@
 * [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
 * [Frank's Minfesto and FAQ](https://github.com/plai-group/manifesto)
 * [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
-* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
-* [Licenses on software released publicly by the group](https://github.com/plai-group/admin-info/blob/master/Licensing.md)
 * [PLAI Slack, Github and other Services](https://github.com/plai-group/admin-info/blob/master/software_services.md)
 * [Group Volunteers](https://github.com/plai-group/jobs)
 * [Accessing the PLAI Workspace during COVID-19](https://github.com/plai-group/admin-info/blob/master/covid19accessplan.md)
+* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 
 
 ## Useful staff contacts
