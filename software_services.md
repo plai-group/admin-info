@@ -13,3 +13,10 @@ If you have an existing repository, you should transfer it to the PLAI group.
 
 For most collaborations with multiple members of the group and external guests that involve code, we prefer to use the Github Team feature. This allows us to create a team, with a discussion forum, Kaban Board and pre-defined access previleges for repositories.  Any member of the team automatically received access to all repositories shared with a team, and automatically loses access when they leave the team.
 
+
+## Software Licenses
+Software released as part of research work done at UBC PLAI Group needs to be compliant with UBC policies and contractual agreements which UBC might have.
+
+We recommend using the Github standard license repository which would take care of everything for you.
+
+Generally speaking, we use the Apache License 2.0 (which is available on Github). When setting up this license, you need to add the year the work was done and the license holder which should be "University of British Columbia".
