@@ -48,6 +48,7 @@ If you're currently going through the onboarding process and find any of the inf
   * Access to the group Slack Workspace (plai-group)
   * [Frank's Google Calendar](https://calendar.google.com/calendar?cid=azRqZ2R1M2VlNG83bWk5ZWY4ZGJrcmRuajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [Plai-group Github](https://github.com/plai-group)
+  * Compute Canada
   * Booking meetings with Frank and vacation request procedures
   * [Repository of admnistrative procedures](https://github.com/plai-group/admin-info)
   * [Use of computational resources](https://github.com/plai-group/cluster-docs)
