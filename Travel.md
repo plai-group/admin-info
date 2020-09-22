@@ -41,4 +41,5 @@ Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/me
 * If you do not have your original itemized receipt, a [missing receipt form](https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx) should be used. However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
 * You do not need to include any items that was pre-booked by PLAI lab using the the PLAI credit card in your reimbursement request. 
 * Keep relevant documents (receipts, invoices) for 3 months or until reibursement is made, whichever is longer.
-* Submit the form to finance@cs.ubc.ca along with a copy of your receipts, or drop it off with Annie or Brenda in the UBC CS Finance Office. 
+* Submit the PDF form for each request to finance@cs.ubc.ca along with a copy of your receipts, or drop it off with Annie or Brenda in the UBC CS Finance Office. 
+* In case of electronic submissions, we recommend combining all files for each request into a single PDF file. This file should start with the forms and follow that with supporting documents.
