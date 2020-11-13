@@ -1,17 +1,23 @@
 # PLAI group admin info summary
 
-* [Onboarding Information](https://github.com/plai-group/admin-info/blob/master/Onboarding.md)
+## Day to Day
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
+* Purchase requests: Submit a request to barney on Slack. 
+* [Presentation and Poster Templates + Logos](https://drive.google.com/drive/folders/1bzjSjapH9CVEvq_FQL-ywaqF2DVEVvwD?usp=sharing)
+* [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
+* [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
 * [Using the PLAI Group cluster](https://github.com/plai-group/cluster-docs/wiki)
 * [Group publications](https://github.com/plai-group/bibliography)
-* Purchase requests: Submit a request to barney on Slack. 
-* [Financial Information](https://github.com/plai-group/admin-info/blob/master/financial.md)
+
+# Joining and Leaving
+* [Onboarding Information](https://github.com/plai-group/admin-info/blob/master/Onboarding.md)
 * [Frank's Minfesto and FAQ](https://github.com/plai-group/manifesto)
-* [Acknowledgement of Funding](https://github.com/plai-group/funding-acknowledgements)
 * [PLAI Slack, Github and other Services](https://github.com/plai-group/admin-info/blob/master/software_services.md)
+* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
+
+## Other
 * [Group Volunteers](https://github.com/plai-group/jobs)
 * [Accessing the PLAI Workspace during COVID-19](https://github.com/plai-group/admin-info/blob/master/covid19accessplan.md)
-* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
 
 
 ## Useful staff contacts
