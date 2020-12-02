@@ -23,7 +23,8 @@ Rooms X-725A, and X-725B have been assigned a capacity of one person per room. N
 * The lab manager will be communicating the requested days to the department every Friday.
 * You should enter the building while wearing a mask/face covering. Masks can be removed when you reach the relevant room assigned to you.
 * Follow the posted signage provided by the department, and remember to sanitize your hands upon entry to the building.
-* When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri.
+* UBC is now enforcing a new check-in procedure. All entries need to fill this form: http://bit.ly/ICICS
+* When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri. 
 * Clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes:
   * The surface of the table
   * Seat handles
