@@ -17,14 +17,13 @@ Any lab member wishing to access the lab needs to:
 We will get back to you on whether your access is approved or not. Access will only be granted after department approval and an on-line briefing by the lab manager.
 
 ## Accessing the Lab During the Pandemic
-Rooms X-725A, and X-725B have been assigned a capacity of one person per room. No person should remain in X-725. We have created a rotating schedule, and access is restricted to 2 blocks of 4 hours per day, with a one hour buffer in between.
+Rooms X-725A, and X-725B have been assigned a capacity of one person per room. No person should remain in X-725. 
 
-* Group members need to add themselves to the PLAI Lab Access Calendar which will be shared with them, by adding the day and time you wish to access the lab and the room being used (X-725A por X-725B) by Friday the week before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk.
-* The lab manager will be communicating the requested days to the department every Friday.
+* Group members need to add themselves to the PLAI Lab Access Calendar which will be shared with them, by adding the day and time you wish to access the lab and the room being used (X-725A por X-725B) preferably two days before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk. An example entry would be "Ali Nasseri - X-725A" on April 1st from 9 am to 5 pm.
 * You should enter the building while wearing a mask/face covering. Masks can be removed when you reach the relevant room assigned to you.
 * Follow the posted signage provided by the department, and remember to sanitize your hands upon entry to the building.
 * UBC is now enforcing a new check-in procedure. All entries need to fill this form: http://bit.ly/ICICS
-* When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri. 
+* When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri. This is to make sure someone knows you are on campus on the time in case of emergencies. 
 * Clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes:
   * The surface of the table
   * Seat handles
