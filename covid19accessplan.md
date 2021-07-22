@@ -1,37 +1,28 @@
 # Accessing PLAI Workspace During COVID-19
 
-Note: The information listed here is the plan for accessing the workspace as per UBC Return to Research Phase 1. The plan has not yet been approved (as of 31 July 2020).
+Note: The information listed here is the plan for accessing the workspace as per UBC Return to Research Phase 3. 
 
-Owing to the COVID-19 pandemic, access to the UBC Campus facilities including UBC CS was restricted. UBC is easing access now, and allowing the facilities to be used at 1/3 capacity. Workspaces that are office-like are restricted to one individual per room.
+Owing to the COVID-19 pandemic, access to the UBC Campus facilities including UBC CS was restricted. UBC is easing access now, and allowing the facilities to be used at higher capacity. Each room has a listed occupancy limit that needs to be met.
 
 ## Pre-requisits and Access Approval
 Any lab member wishing to access the lab needs to:
 * Review the [UBC Health and Safety COVID-19 page](https://srs.ubc.ca/covid-19/health-safety-covid-19)
-* Review the safety protocols (page 20 of [this document](https://my.cs.ubc.ca/system/files/docs/science_return_to_on-campus_research_documentation_approved_june_2.pdf))
-* Complete the [UBC COVID-19 Training](https://srs.ubc.ca/covid-19/safety-planning/covid-19-safety-training-rules/)
+* Review the [UBC COVID-19 Rules and Safety Plans](https://srs.ubc.ca/covid-19/safety-planning/covid-19-safety-training-rules/)
+* Complete the new [UBC Go Forward COVID-19 Safety Planning Training](https://wpl.ubc.ca/browse/srs/courses/wpl-srs-gfsp)
 * Submit an access request to plai-manager@cs.ubc.ca including:
   * Proof of completion of COVID-19 training (certificate)
-  * Signed [CS Safety Plan](https://my.cs.ubc.ca/system/files/docs/cs_safety_plan_with_floorplans_final_0.pdf) (acknowledging your have reviewed the relevant guidelines)
-  * Reason for access to the lab (this can be as simple as being able to focus on work, etc)
-
-We will get back to you on whether your access is approved or not. Access will only be granted after department approval and an on-line briefing by the lab manager.
 
 ## Accessing the Lab During the Pandemic
-Rooms X-725A, and X-725B have been assigned a capacity of one person per room. No person should remain in X-725. 
+Rooms capacities are posted on the doors. 
 
-* Group members need to add themselves to the PLAI Lab Access Calendar which will be shared with them, by adding the day and time you wish to access the lab and the room being used (X-725A por X-725B) preferably two days before access is needed. Preference is for you to access the same room, so that we can give you a dedicated desk. An example entry would be "Ali Nasseri - X-725A" on April 1st from 9 am to 5 pm.
-* You should enter the building while wearing a mask/face covering. Masks can be removed when you reach the relevant room assigned to you.
 * Follow the posted signage provided by the department, and remember to sanitize your hands upon entry to the building.
-* UBC is now enforcing a new check-in procedure. All entries need to fill this form: http://bit.ly/ICICS
-* When you get to campus and enter the room, you should send a check-in message on slack to Ali Nasseri. This is to make sure someone knows you are on campus on the time in case of emergencies. 
-* Clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes:
+* We recommend wearing a mask when entewring the building.
+* We recommend that you clean the workspace both before starting work, and after you are done using the wipes provided at the workstations. This includes:
   * The surface of the table
   * Seat handles
   * Any cables you used
   * Door knobs
   * Lights switches
   * Any other surface you touched 
-* Make sure to leave before the end of the assigned time slot.
-* When ending your shift in the lab, send a check-out message on slack to Ali Nasseri.
-* While in the lab, maintain social distancing and avoid touching surfaces other than the assigned workspace.
+* While in the lab, maintain social distancing and avoid touching surfaces other than the assigned workspace. We also recommend leaving windows open to improve airflow.
 
