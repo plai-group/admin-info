@@ -6,9 +6,9 @@ If you're currently going through the onboarding process and find any of the inf
 
 1. Introduction to other staff members and Tour of the building
   * X-725: PLAI Lab
-  * X861: Frank Wood
-  * X863: PLAI Admin
-  * X869: Postdocs 
+  * X-861: Frank Wood
+  * X-453: PLAI Admin
+  * X-869: Postdocs 
   * Staff lounge
   * Bathrooms
   * CS Admin (second floor)
@@ -31,7 +31,7 @@ If you're currently going through the onboarding process and find any of the inf
     * Ability to print to the departmental printers
   * Key pick up from Access Desk in bookstore (only if office needs a key)
   * Apply for UBC Card at Access Desk at Bookstore
-  * Request access to facilities at the department (lab at X725, lounge, etc) by sending photo of the front and back of your UBC card to space-admin@cs.ubc.ca, confirming you are a member of hte PLAI Group and including plai-manager@cs.ubc.ca in cc
+  * Request access to facilities at the department (lab at X-725, lounge, etc) by sending photo of the front and back of your UBC card to space-admin@cs.ubc.ca, confirming you are a member of hte PLAI Group and including plai-manager@cs.ubc.ca in cc
   * [UBC E-mail signatures](https://brand.ubc.ca/e-mail-signature-generator/?login)
   * [Request add to the PLAI website team page](http://plai.cs.ubc.ca/group-member-information/)
 
@@ -42,13 +42,13 @@ If you're currently going through the onboarding process and find any of the inf
   * Uniforms, security identification, name tags, etc.
   * Desk and cabinets
   * [staff only] Voicemail and phone
-  * Office365
+  * [Office-365 for students and staff](https://it.ubc.ca/services/desktop-print-services/software-licensing/microsoft-365-office-students?itnewsm365students)
 
 4. Group internal tools 
   * Access to the group Slack Workspace (plai-group)
   * [Frank's Google Calendar](https://calendar.google.com/calendar?cid=azRqZ2R1M2VlNG83bWk5ZWY4ZGJrcmRuajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [Plai-group Github](https://github.com/plai-group)
-  * Compute Canada
+  * Compute Canada: Create an account [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/) with Frank as sponsor (CCRI: jav-224-01)
   * Booking meetings with Frank and vacation request procedures
   * [Repository of admnistrative procedures](https://github.com/plai-group/admin-info)
   * [Use of computational resources](https://github.com/plai-group/cluster-docs)
