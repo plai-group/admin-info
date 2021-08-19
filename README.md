@@ -21,10 +21,10 @@
 
 
 ## Useful staff contacts
-- Group assistant - Barney Sprague  
+- Group assistant - (vacant)  
   email: plai-admin@cs.ubc.ca  
   phone: 604-822-4983  
-  office: X863
+  office: X453
   Topics: 
   * First point of contact for administrative issues 
   * Reimbursements
@@ -33,7 +33,7 @@
   
 - Group Manager - Ali Nasseri  
   email: ali.nasseri@ubc.ca  
-  office: X863
+  office: X453
   Topics:
   * Grants and funding
   * Opportunities
