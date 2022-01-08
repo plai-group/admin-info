@@ -24,8 +24,8 @@ If you're currently going through the onboarding process and find any of the inf
     * Grad students automatically get access, staff need to submit a form to accounts@cs.ubc.ca
     * Email account ending in @cs.ubc.ca where you can send and receive email
     * ssh access to departmental computers through remote.cs.ubc.ca
-    * Departmental website with procedures
-    * Membership in fwood group on departmental computers, which you can verify by running the groups command
+    * Departmental website with procedures: my.cs.ubc.ca
+    * Membership in fwood partition on departmental computers, which you can verify by running the group's command (request access through help@cs.ubc.ca if you are not on the partition with plai-manager@cs.ubc.ca in cc)
     * Ability to connect to the departmental VPN
     * Your personal devices connected to ubcsecure and eduroam wifi networks
     * Ability to print to the departmental printers
@@ -49,10 +49,10 @@ If you're currently going through the onboarding process and find any of the inf
   * [Frank's Google Calendar](https://calendar.google.com/calendar?cid=azRqZ2R1M2VlNG83bWk5ZWY4ZGJrcmRuajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   * [Plai-group Github](https://github.com/plai-group)
   * Compute Canada: Create an account [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/) with Frank as sponsor (CCRI: jav-224-01)
+  * UBC ARC: Request for access sent by Ali (need your CWL)
   * Booking meetings with Frank and vacation request procedures
   * [Repository of admnistrative procedures](https://github.com/plai-group/admin-info)
   * [Use of computational resources](https://github.com/plai-group/cluster-docs)
-  * Add to fwood group on the CS internal system (names need to be sent to help@cs.ubc.ca by us)
 
 5. Review [mandatory training for all workers](https://srs.ubc.ca/training-and-general-education-courses/mandatory-training-for-all-ubc-workers/?login)
 
