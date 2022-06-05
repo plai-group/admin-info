@@ -21,7 +21,7 @@
 
 
 ## Useful staff contacts
-- Group assistant - (vacant)  
+- Group assistant - Andrew Smith
   email: plai-admin@cs.ubc.ca  
   phone: 604-822-4983  
   office: X453
