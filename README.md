@@ -21,23 +21,10 @@
 
 
 ## Useful staff contacts
-- Group assistant - Andrew Smith
-  email: plai-admin@cs.ubc.ca  
-  phone: 604-822-4983  
-  office: X453
-  Topics: 
-  * First point of contact for administrative issues 
-  * Reimbursements
-  * Travel arrangements
-  * Purchasing
   
-- Group Manager - Ali Nasseri  
-  email: ali.nasseri@ubc.ca  
+- Group Manager - Andrew Smith  
+  email: andrew.smith@ubc.ca  
   office: X453
-  Topics:
-  * Grants and funding
-  * Opportunities
-  * Facilities and work space
   
 - Computing facilities manager - [Michael Sanderson](https://www.cs.ubc.ca/people/michael-sanderson)  
   email: sanders@cs.ubc.ca  
