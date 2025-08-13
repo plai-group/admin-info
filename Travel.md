@@ -26,9 +26,9 @@ Make sure to keep all the receipts you want to be reimbursed for during the trip
 Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem) which might affect reimbursement of food and other items.
 
 ## After your trip:
-*  Submit an [expense request in Workday](https://irp.ubc.ca/sites/integrated-renewal.ubc.ca/files/images/How%20Do%20I%20-%20Get%20Reimbursed%20for%20Expenses.pdf)
-  * The Grant determines which account your costs are charged to. Check with the lab manager before filling the form to determing which speedchart to use.
-  * We recomend following [this knowledgebase article](https://ubc.service-now.com/selfservice?id=kb_article&sys_id=345630b747a41294efc6767b416d4316&table=kb_knowledge) for details on submitting an expense report.
+*  To be reimbursed, submit an [expense request in Workday](https://irp.ubc.ca/sites/integrated-renewal.ubc.ca/files/images/How%20Do%20I%20-%20Get%20Reimbursed%20for%20Expenses.pdf)
+     * We recomend following [this guide](https://ubc.service-now.com/selfservice?id=kb_article&sys_id=345630b747a41294efc6767b416d4316&table=kb_knowledge) for details on completing an expense report.
+     * The "grant" field determines where your costs are charged. Check with the lab manager to determing which speedchart to use.
 * You do not need to include any items that was pre-booked by PLAI lab using the the PLAI credit card in your reimbursement request. 
 * Keep relevant documents (receipts, invoices) for 3 months or until reibursement is made, whichever is longer.
 
