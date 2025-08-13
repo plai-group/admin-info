@@ -9,6 +9,7 @@
 
 ## Resources
 * [Presentation and Poster Templates + Logos](https://drive.google.com/drive/folders/1bzjSjapH9CVEvq_FQL-ywaqF2DVEVvwD?usp=sharing)
+* [Reading Group Schedule{(https://docs.google.com/spreadsheets/d/1fmYkmyAWoSLCa0XjcIbwx8AyNRC0I1noW---p39h_SU/edit?usp=sharing)
 * [Onboarding Form](https://forms.gle/nFwfcSFLKFC7sujaA)
 * [Group Volunteers](https://github.com/plai-group/jobs)
     
