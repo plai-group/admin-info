@@ -26,10 +26,9 @@ Make sure to keep all the receipts you want to be reimbursed for during the trip
 Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/meals-diem) which might affect reimbursement of food and other items.
 
 ## After your trip:
-* Fill the [UBC CS travel reimbursement form](https://my.cs.ubc.ca/system/files/docs/Students%20and%20Postdocs%20Travel%20Reimbursement%20Claim%20Form.pdf) or submit an [expense request in Workday](https://irp.ubc.ca/sites/integrated-renewal.ubc.ca/files/images/How%20Do%20I%20-%20Get%20Reimbursed%20for%20Expenses.pdf)
+*  Submit an [expense request in Workday](https://irp.ubc.ca/sites/integrated-renewal.ubc.ca/files/images/How%20Do%20I%20-%20Get%20Reimbursed%20for%20Expenses.pdf)
   * The Grant determines which account your costs are charged to. Check with the lab manager before filling the form to determing which speedchart to use.
-* If you do not have your original itemized receipt, a [missing receipt form](https://my.cs.ubc.ca/system/files/docs/Missing_Receipt%20Form.docx) should be used. However, missing receipt forms will not be accepted in cases where a receipt can reasonably be retrieved (original or copy).
+  * We recomend following [this knowledgebase article](https://ubc.service-now.com/selfservice?id=kb_article&sys_id=345630b747a41294efc6767b416d4316&table=kb_knowledge) for details on submitting an expense report.
 * You do not need to include any items that was pre-booked by PLAI lab using the the PLAI credit card in your reimbursement request. 
 * Keep relevant documents (receipts, invoices) for 3 months or until reibursement is made, whichever is longer.
-* If completing the CS reimbursement form, submit the PDF form for each request to finance@cs.ubc.ca along with a copy of your receipts, or drop it off with Annie or Brenda in the UBC CS Finance Office. Workday submissions are processed automatically.
-* In case of electronic submissions, we recommend combining all files for each request into a single PDF file. This file should start with the forms and follow that with supporting documents.
+
