@@ -1,6 +1,6 @@
 # PLAI group travel info
 
-PLAI Group currently supports travel of lab members to conferences and other meetings to present their work. In this document, we summarize the lab policy on Travel and procedures you need to follow if you are traveling.
+PLAI Group currently supports travel of lab members to conferences and other meetings to present their work. This page summarizes the lab policy on travel and describes steps to follow if you are traveling.
 
 # PLAI Travel Policy
 Our current policy is as follows:
@@ -9,7 +9,7 @@ Our current policy is as follows:
 * Other authors of a conference presentation or poster are generally not supported.
 * If you do receive partial funding from other sources for your conference (such as programs the conference runs), we can discuss a contribution from the lab on top of that as well.
 
-# Procedures for Travel Booking and Reimbursement
+# Travel Booking and Reimbursement
 You can book your travel yourself, or we can book your flight and accomodation for you using the PLAI Group credit card. In both cases, your travel itinerary needs to be approved by the lab prior to booking; otherwise, the lab will not be responsible for the costs.
 
 ## Before your trip:
