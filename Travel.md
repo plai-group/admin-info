@@ -7,7 +7,6 @@ Our current policy is as follows:
 * The lead author of a conference presentation or poster will automatically be supported through lab funds.
 * Second authors of a conference presentation or poster can apply for the [UBC Graduate Student travel Fund](https://www.grad.ubc.ca/awards/graduate-student-travel-fund), [PDF Travel Awards](https://www.postdocs.ubc.ca/award/pdf-travel-awards) or other similar programs. The PLAI group will match the funding received.
 * Other authors of a conference presentation or poster are generally not supported.
-* Each student is entitled to a single funded summer school.
 * If you do receive partial funding from other sources for your conference (such as programs the conference runs), we can discuss a contribution from the lab on top of that as well.
 
 # Procedures for Travel Booking and Reimbursement
@@ -15,18 +14,9 @@ You can book your travel yourself, or we can book your flight and accomodation f
 
 ## Before your trip:
 * Make sure to familarize yourself with the [UBC Finance travel policy](https://finance.ubc.ca/procure-pay/expenditure-guidelines/travel-expenditures)
-* Fill the [Travel Request Form](https://plai.cs.ubc.ca/internal/travel-request/). You will need the following information:
-  * The conference name, dates, link
-  * Short description for the reason of your trip (usually this will be something like "I am doing a talk/poster on XYZ")
-  * Your travel itinerary/flight information (could be the link from google flight)
-  * Your accomodation info (could be a link)
-  * Estimated total cost
-  * If you want us to book the itinerary for you, please mention that in your message. We will need your full legal name and date of birth.
 * Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
-* If you ask us to book the trip for you, you will receive confirmation that your trip is fine and the booking confirmation in your CS email.
 
 ## During your trip:
-
 Make sure to keep all the receipts you want to be reimbursed for during the trip, and get invoices when possible. This specially includes:
 * Invoice from hotel/accomodation provider
 * Boarding passes and other transportation tickets
