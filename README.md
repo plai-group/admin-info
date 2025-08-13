@@ -1,23 +1,17 @@
-# PLAI group admin info summary
+# PLAI Admin Info 
 
 ## Policies & Guides
 * [Travelling to events](https://github.com/plai-group/admin-info/blob/master/Travel.md)
-* [Presentation and Poster Templates + Logos](https://drive.google.com/drive/folders/1bzjSjapH9CVEvq_FQL-ywaqF2DVEVvwD?usp=sharing)
 * [Funding Acknoledgement](https://github.com/plai-group/funding-acknowledgements)
 * [Cluster Guide](https://github.com/plai-group/cluster-docs/wiki)
 * [Group publications](https://github.com/plai-group/bibliography)
 * [Frank's Minfesto and FAQ](https://github.com/plai-group/manifesto)
 
-# Joining and Leaving
-* [Onboarding Information](https://github.com/plai-group/admin-info/blob/master/Onboarding.md)
-* [PLAI Slack, Github and other Services](https://github.com/plai-group/admin-info/blob/master/software_services.md)
-* [Offboarding Checklist](https://github.com/plai-group/admin-info/blob/master/offboarding.md)
-
-## Other
+## Resources
+* [Presentation and Poster Templates + Logos](https://drive.google.com/drive/folders/1bzjSjapH9CVEvq_FQL-ywaqF2DVEVvwD?usp=sharing)
+* [Onboarding Form](https://forms.gle/nFwfcSFLKFC7sujaA)
 * [Group Volunteers](https://github.com/plai-group/jobs)
-* [Accessing the PLAI Workspace during COVID-19](https://github.com/plai-group/admin-info/blob/master/covid19accessplan.md)
-
-
+    
 ## Useful staff contacts
   
 - Group Manager - Andrew Smith  
