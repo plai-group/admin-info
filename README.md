@@ -2,6 +2,7 @@
 
 ## Policies & Guides
 * [Travel Policy](https://github.com/plai-group/admin-info/blob/master/Travel.md)
+* Tuition Policy (Coming soon)
 * [Funding Acknoledgement](https://github.com/plai-group/funding-acknowledgements)
 * [Cluster Guide](https://github.com/plai-group/cluster-docs/wiki)
 * [Group publications](https://github.com/plai-group/bibliography)
