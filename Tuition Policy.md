@@ -10,7 +10,9 @@ We ensure that all PLAI graduate students do not bear the cost of remaining tuit
 
 1. Accept all available awards  
 2. Submit the [Tuition Reimbursement Form](https://forms.gle/ekwrp7Cb64LNSmSH6)
-3. Ensure you pay your tuition and fees on time to avoid late fees ([Payment Due Dates](https://vancouver.calendar.ubc.ca/fees/policies-fees#15539-pay-and-due))  
+3. Ensure you pay your tuition and fees on time to avoid late fees ([Payment Due Dates](https://vancouver.calendar.ubc.ca/fees/policies-fees#15539-pay-and-due))
+
+Your stipend will be increased proportionally to your costs.
   
 ## Resources
 
