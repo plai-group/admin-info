@@ -8,9 +8,9 @@ We ensure that all PLAI graduate students do not bear the cost of remaining tuit
 
 ## Procedure
 
-1. **Accept all available awards.**  
-2. **Submit the [Tuition Reimbursement Form](#)**  
-3. **Ensure you pay your tuition and fees on time** to avoid late fees ([Payment Due Dates](https://vancouver.calendar.ubc.ca/fees/policies-fees#15539-pay-and-due))  
+1. Accept all available awards  
+2. Submit the [Tuition Reimbursement Form](https://forms.gle/ekwrp7Cb64LNSmSH6)
+3. Ensure you pay your tuition and fees on time to avoid late fees ([Payment Due Dates](https://vancouver.calendar.ubc.ca/fees/policies-fees#15539-pay-and-due))  
 
 > **Note:** This policy supplements UBC scholarships and awards. All members are encouraged, and will be supported, to apply for available awards ([Graduate Award Opportunities](https://www.grad.ubc.ca/scholarships-awards-funding/award-opportunities)).
   
