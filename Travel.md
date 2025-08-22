@@ -1,20 +1,15 @@
-# PLAI group travel info
-
-PLAI Group currently supports travel of lab members to conferences and other meetings to present their work. This page summarizes the lab policy on travel and describes steps to follow if you are traveling.
-
 # PLAI Travel Policy
-Our current policy is as follows:
-* The lead author of a conference presentation or poster will automatically be supported through lab funds.
-* Second authors of a conference presentation or poster can apply for the [UBC Graduate Student travel Fund](https://www.grad.ubc.ca/awards/graduate-student-travel-fund), [PDF Travel Awards](https://www.postdocs.ubc.ca/award/pdf-travel-awards) or other similar programs. The PLAI group will match the funding received.
-* Other authors of a conference presentation or poster are generally not supported.
-* If you do receive partial funding from other sources for your conference (such as programs the conference runs), we can discuss a contribution from the lab on top of that as well.
+PLAI Group supports travel of lab members to conferences and other meetings to present their work:
+* The lead author of a conference presentation or poster will automatically be supported through lab funds. Additional authors may also be supported, ask Frank for confirmation.
+* All authors should apply for the [UBC Graduate Student travel Fund](https://www.grad.ubc.ca/awards/graduate-student-travel-fund), [PDF Travel Awards](https://www.postdocs.ubc.ca/award/pdf-travel-awards) or other similar programs to help offset costs.
 
-# Travel Booking and Reimbursement
-You can book your travel yourself, or we can book your flight and accomodation for you using the PLAI Group credit card. In both cases, your travel itinerary needs to be approved by the lab prior to booking; otherwise, the lab will not be responsible for the costs.
+## Travel Booking and Reimbursement
+* We encourage you to book your travel yourself. Please be sure to have your itinerary approved prior to booking.
+* For large conferences, and group travel, we will coordinate a short-term rental for the group.
 
 ## Before your trip:
 * Make sure to familarize yourself with the [UBC Finance travel policy](https://finance.ubc.ca/procure-pay/expenditure-guidelines/travel-expenditures)
-* Your trip is finalized when you get approval from the lab manager that the spending is fine. Do not book your trip beforehand.
+* Your trip is finalized when you get approval for spending. Do not book your trip beforehand.
 
 ## During your trip:
 Make sure to keep all the receipts you want to be reimbursed for during the trip, and get invoices when possible. This specially includes:
@@ -31,4 +26,3 @@ Note the [university per diem policy](https://finance.ubc.ca/travel/reconcile/me
      * The "grant" field determines where your costs are charged. Check with the lab manager to determing which speedchart to use.
 * You do not need to include any items that was pre-booked by PLAI lab using the the PLAI credit card in your reimbursement request. 
 * Keep relevant documents (receipts, invoices) for 3 months or until reibursement is made, whichever is longer.
-
