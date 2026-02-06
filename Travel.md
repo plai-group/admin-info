@@ -1,4 +1,4 @@
-# PLAI Travel Policy
+# Travel Policy
 PLAI Group supports travel of lab members to conferences and other meetings to present their work:
 * The lead author of a conference presentation or poster will automatically be supported through lab funds. Additional authors may also be supported, ask Frank for confirmation.
 * All authors should apply for the [UBC Graduate Student travel Fund](https://www.grad.ubc.ca/awards/graduate-student-travel-fund), [PDF Travel Awards](https://www.postdocs.ubc.ca/award/pdf-travel-awards) or other similar programs to help offset costs.
