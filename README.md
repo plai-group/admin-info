@@ -1,4 +1,4 @@
-# PLAI Admin Info 
+Check out the https://github.com/plai-group/admin-info/wiki for lab policies and resources
 
 ## Policies & Guides
 * [Travel Policy](https://github.com/plai-group/admin-info/blob/master/Travel.md)
