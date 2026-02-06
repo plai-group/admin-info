@@ -1,5 +1,5 @@
 # Funding Ackowledgements
-Text to use in paper acknowledgements:
+Please use this text to acknolwedge group funding:
 
 
 We acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), the Alberta Machine Intelligence Institute (Amii) through the Canada CIFAR AI Chairs Program, Inverted AI, Mitacs, and Google.   This research was enabled in part by technical support and computational resources provided by the Digital Research Alliance of Canada Compute Canada (alliancecan.ca), the Advanced Research Computing at the University of British Columbia (arc.ubc.ca), and Amazon Web Services.  
